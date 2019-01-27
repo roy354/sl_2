@@ -1,0 +1,1 @@
+pkg install php && pkg install install nano && pkg install curl
